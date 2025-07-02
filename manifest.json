@@ -1,0 +1,12 @@
+### custom_components/ajax_manager/manifest.json
+{
+  "domain": "ajax_manager",
+  "name": "AJAX Alarm Manager",
+  "version": "0.1.0",
+  "requirements": [
+    "git+https://github.com/Den901/python_ajax_manager.git"
+  ],
+  "codeowners": ["@yourgithub"],
+  "config_flow": false,
+  "documentation": "https://github.com/Den901/python_ajax_manager"
+}

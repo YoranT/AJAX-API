@@ -1,7 +1,7 @@
 {
   "name": "AJAX API DSJ",
   "content_in_root": false,
-  "domains": ["ajax-manager"],
+  "domains": ["ajax_manager"],
   "country": "NL",
   "homeassistant": "2025.1.0",
   "iot_class": "cloud_polling"
